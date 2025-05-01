@@ -1,3 +1,4 @@
+
 # 📡 Network Sniffer using Python and Scapy
 
 # 🛡️ CodeAlpha Internship – Task 1: Basic Network Sniffer
@@ -42,3 +43,7 @@ Sniffing started... Press Ctrl+C to stop.
 - Mahek Sheikh 
 - CodeAlpha Cybersecurity Internship  
 - Task 1 of 3 Completed ✅
+
+# CodeAlpha_NetworkSniffer
+Task 1 of CodeAlpha Cybersecurity Internship – Basic Network Sniffer in Python
+>>>>>>> 0f7f808a9794d572e800667501c055c816c7080d
